@@ -6,6 +6,6 @@ My username as shown on my profile is DeveloperMofy, and I am a coder builing my
 -  I’m looking to collaborate on SwiftUi projects, web games, javascript applications, websites, etc. 
 -  I’m looking for help with Learning how to make javascript applications. 
 
--  How to reach me: Through Github 
--  Fun fact: I like to code :)
+- 📫 How to reach me: Through Github 
+- ⭐ Fun fact: I like to code :)
 
